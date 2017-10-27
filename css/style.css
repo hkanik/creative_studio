@@ -214,7 +214,6 @@ background-color: #F4F4F4;
     border-bottom: 1px solid #C0C0C0;
 }
 
-#about_us_head {}
 
 #about_us_text {
     font-family: arial;
@@ -313,7 +312,7 @@ background-color: #F4F4F4;
 
 .image {
     float: left;
-    margin-right: 50px;
+    margin-right: 88px;
 }
 
 .image:last-child {
